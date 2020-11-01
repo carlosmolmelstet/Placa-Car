@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  <img src=".github/home.png"/>
+</p>
+
+<p align="center">
   <a href="https://placa-car.vercel.app/">Deploy</a>
 </p>
 
